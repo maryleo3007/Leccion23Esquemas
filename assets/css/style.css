@@ -1,0 +1,49 @@
+#rosado{
+  background-color: #ED462F;
+  width: 400px;
+  height: 400px;
+}
+#morado{
+  background-color: #752E80;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  right: 100px;
+  bottom: 100px;
+}
+#amarillo{
+  background-color: #FFF835;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+#azul{
+  background-color: #0048FB;
+  width: 400px;
+  height: 400px;
+  margin-top: 20px;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+#verde{
+  background-color:  #387804;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+#negro{
+  background: black;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
